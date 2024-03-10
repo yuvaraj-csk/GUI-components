@@ -1,4 +1,4 @@
-![Screenshot 2024-03-10 114426](https://github.com/yuvaraj-csk/GUI-components/assets/134052574/96128223-8a67-4cda-b6db-b7163b390c5d)# Ex.No: 1 To develop an application that uses GUI Components with Fonts and Colors. 
+## Ex.No: 1 To develop an application that uses GUI Components with Fonts and Colors. 
 Note: Create button for colors and fonts while clicking color or font button should change 
 
 
