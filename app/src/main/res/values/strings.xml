@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GUI-components</string>
+    <string name="message">Welcome</string>
+    <string name="font">Size</string>
+    <string name="color">Color</string>
 </resources>
